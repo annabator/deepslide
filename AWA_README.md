@@ -1,0 +1,3 @@
+- uses ResNet (-18 I think) as base network
+- built with PyTorch
+- very good example to start with but probably no need to make mine so big
